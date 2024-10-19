@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+# NAME:KEERTHIKA M P
+# REG NO:212223240071
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
