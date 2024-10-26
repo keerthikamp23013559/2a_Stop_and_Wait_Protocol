@@ -42,10 +42,8 @@ while True:
 ```
 
 ## OUTPUT
-
-![Screenshot 2024-10-19 091804](https://github.com/user-attachments/assets/36837d30-9bae-41b1-a7ca-eab3dc9eff10)
-
-![Screenshot 2024-10-19 091827](https://github.com/user-attachments/assets/3232f8c7-3421-4378-acde-d9d1feb3aefd)
+![Screenshot 2024-10-26 215435](https://github.com/user-attachments/assets/ac724a3e-a48f-4982-aa29-b64520c4ee48)
+![Screenshot 2024-10-26 215428](https://github.com/user-attachments/assets/2ded20f9-a02b-4a8f-abc4-5c08a7504b77)
 
 
 
